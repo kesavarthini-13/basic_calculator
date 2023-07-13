@@ -1,0 +1,35 @@
+body
+{
+
+background:linear-gradient(lightgoldenrodyellow, skyblue, pink ,lightsteelblue);
+}
+h1{
+    background:cyan;
+    color:black;
+    height:80px;
+    text-align:center;
+    padding-top:50px;
+}
+h3{
+    background:white;
+    height:100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+div
+{
+background: lightsteelblue;
+height:55px;
+width:400px;
+margin:auto;
+text-align: center;
+font-size: xx-large;
+}
+p
+{
+text-align: center;
+padding-top: 25px;
+font-size: x-large;
+font-weight: bolder;
+}
